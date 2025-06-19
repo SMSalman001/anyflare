@@ -3,6 +3,7 @@
 ## Introduction
 
 Anyflare is a cloudflare worker proxy which you can deploy yourself to download anything through cloudflare.
+anyflare.s-shahalam-1593.workers.dev
 
 ## Preview
 
